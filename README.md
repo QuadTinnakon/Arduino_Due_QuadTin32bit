@@ -37,6 +37,12 @@ pin 9 motor_BackL  M4 CCW             M3 CW  motor_BackR  pin 7
 ----------rx-----------           
  A8 = CPPM
 
+Mix remote
+
+![](https://cloud.githubusercontent.com/assets/9403558/4783486/0a4613ea-5d28-11e4-8abc-77754f0fe912.jpg)
+
+![](https://cloud.githubusercontent.com/assets/9403558/4783487/16b26264-5d28-11e4-9b79-bd38f6cef82b.jpg)
+
 http://diydrones.com/profiles/blogs/arduino-due-32bit-quadrotor-testing-altitude-hold
 
 http://youtu.be/qNrovqSp3CU?list=UUK8SdBKqjdXghqlJf3-sZaQ
