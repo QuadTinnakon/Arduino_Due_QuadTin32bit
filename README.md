@@ -13,8 +13,7 @@ support:  Arduino Due
 
 Quad-X
        
-pin 6 FRONTL  M1CW        
-M2CCW  FRONTR pin 8
+pin 6 FRONTL  M1CW        M2CCW  FRONTR pin 8
 
                 \         / 
                   \ --- /
@@ -22,8 +21,7 @@ M2CCW  FRONTR pin 8
                   / --- \
                 /         \ 
                 
-pin 9 motor_BackL  M4 CCW      
-M3 CW  motor_BackR  pin 7 
+pin 9 motor_BackL  M4 CCW   M3 CW  motor_BackR  pin 7 
 
 ----------rx-----------           
  A8 = CPPM
