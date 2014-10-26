@@ -8,6 +8,8 @@ Diagram
 
 ![](https://cloud.githubusercontent.com/assets/9403558/4783341/5c9d92f4-5d22-11e4-8dba-316e57b18f00.jpg)
 
+[View Video](http://youtu.be/qNrovqSp3CU?list=UUK8SdBKqjdXghqlJf3-sZaQ)
+
 https://drive.google.com/file/d/0B4UGzNJoSnKmTjNMaFItdTJTWmc/view?usp=sharing
 
 support:  Arduino Due
