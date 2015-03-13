@@ -3,6 +3,8 @@ Arduino_Due_32Bit
 TK Quad 3D Shop
 http://quad3d-tin.lnwshop.com/
 
+หนังสือเขียนโปรแกรมเครื่องบินสี่ใบพัด การเขียนโปรแกรม Quadrotor พื้นฐาน ,การบินอากาศยาน 4 ใบพัด ,โดรน drone  ,โดรนคอร์ดคอปเตอร์ Drone QuadCopter ,อากาศยานไร้คนขับ
+
 http://quad3d-tin.lnwshop.com/product/37/diy_autodue32bit
 
 Photo
